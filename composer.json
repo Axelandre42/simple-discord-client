@@ -1,0 +1,22 @@
+{
+	"name": "discord-rest/simple-client",
+	"description": "A simple HTTP REST client for Discord.",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Alexandre Waeles",
+			"homepage": "https://axelandre42.ovh/",
+			"role": "Author"
+		}
+	],
+	"require": {
+		"php": "^8.0",
+		"psr/http-client": "^1.0.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"DiscordRest\\Client\\": "src"
+		}
+	}
+}
