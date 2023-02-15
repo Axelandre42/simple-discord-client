@@ -1,5 +1,5 @@
 {
-	"name": "discord-rest/simple-client",
+	"name": "axelandre42/simple-discord-client",
 	"description": "A simple HTTP REST client for Discord.",
 	"minimum-stability": "stable",
 	"license": "MIT",
